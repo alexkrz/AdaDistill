@@ -5,5 +5,8 @@
 # Python artifacts
 __pycache__
 
+# Sample Data
+/data/*
+
 # System
 *.DS_Store
