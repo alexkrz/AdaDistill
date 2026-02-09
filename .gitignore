@@ -1,3 +1,9 @@
 # IDE
 /.idea
 /.vscode
+
+# Python artifacts
+__pycache__
+
+# System
+*.DS_Store
